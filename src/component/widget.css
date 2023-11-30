@@ -1,0 +1,26 @@
+.dirty {
+    cursor: url(../assets/new/mouse3.png), auto;
+  }
+
+
+  .backgroundF{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/new/Fregance.gif); 
+    background-repeat: no-repeat;
+  }
+
+
+  .background{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/new/Clean.jpg); 
+    background-repeat: no-repeat;
+} 
+
+.backgroundLast{
+    width: 300px;
+    height: 250px;
+    background-image: url(../assets/new/finalSide.jpg); 
+    background-repeat: no-repeat;
+}

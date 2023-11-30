@@ -1,0 +1,40 @@
+.widget-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.widget-container button {
+  flex: 1;
+  margin: 5px; /* Optional margin for spacing */
+}
+.left-button{
+  background: none;
+  border: none;
+  cursor: pointer;
+
+
+}
+.right-button{
+  background: none;
+  border: none;
+  cursor: pointer;
+
+
+}
+.left-img{
+  height: 110px;
+  width: 100px;
+
+}
+
+
+
+.dirty {
+  cursor: url(../assets/Pack.png), auto;
+}
+
+.fragrance-gif {
+  width: 350px;
+  height: 400px;
+}
